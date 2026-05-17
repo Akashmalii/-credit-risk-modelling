@@ -122,8 +122,8 @@ The final XGBoost model (after tuning) achieved the best accuracy among all test
 
 ## 🙋 Author
 
-**Your Name**  
-[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+**Akash Mali**  
+[GitHub](https://github.com/Akashmalii) · [LinkedIn](https://www.linkedin.com/in/akash-mali-6373bb241/)
 
 ---
 
